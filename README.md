@@ -1,5 +1,7 @@
 # COBEM_2023_REFERENCES
-This file contains the references used to develop the research presented in paper 2407: EXPLORING SNAKE-LIKE LOCOMOTION: ANALYSIS OF SERPENOID CURVES AND ANISOTROPIC FRICTION IN SNAKE ROBOTS  at  COBEM 2023.
+This file contains the references used to develop the research presented in paper 2407 presented at COBEM 2023
+
+## Article name: EXPLORING SNAKE-LIKE LOCOMOTION: ANALYSIS OF SERPENOID CURVES AND ANISOTROPIC FRICTION IN SNAKE ROBOTS 
 
 1. Baysal, Y.A. and Altas, I.H., 2020. “Modelling and simulation of a wheel-less snake robot”. In 2020
 7th International Conference on Electrical and Electronics Engineering (ICEEE). pp. 285–289. doi:
