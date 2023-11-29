@@ -1,0 +1,2 @@
+# COBEM_2023_REFERENCES
+This file contains the references used to develop the research presented in paper 2407: EXPLORING SNAKE-LIKE LOCOMOTION: ANALYSIS OF SERPENOID CURVES AND ANISOTROPIC FRICTION IN SNAKE ROBOTS  at  COBEM 2023.
